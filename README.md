@@ -1,2 +1,2 @@
 # Sample_Proj
-An API with Unit Test and Dependency Injection
+An API with Dependency Injection
